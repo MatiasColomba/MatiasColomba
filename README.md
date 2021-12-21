@@ -2,5 +2,5 @@
 
 - 🎓 Graduated Mechanical Engineer / Studying Programming
 - 🌱 I’m currently learning Full Stack Web Programming
-- 💬 Ask me about Problem Solving, Mathematics and Logic
+- 💬 Ask me about Problem Solving, Mathematics and Innovation
 - 📫 How to reach me: maticolomba96@gmail.com
